@@ -2,7 +2,7 @@
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning lotta stuff
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me some stuff
+- 📫 How to reach me: don't come to my house
 
 <!---
 iErik/iErik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
